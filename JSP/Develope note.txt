@@ -1,0 +1,35 @@
+
+1. Color
+
+#FFE6FA rgb(255, 230, 250) background pastel purple
+#ffccff  light purple
+#ffb3ff highlight neon purple
+
+아래로 갈 수록 진함
+
+
+2. basicpage.html >>>> 기본골격 구조 
+
+3. Fix
+
+fix planner *
+
+image file scaling ---
+
+music menu > music gallery *
+
+signup, login page make 
+login 시 창 뜨게-플래너 창 뜨는 거 참고
+
+html 페이지에서 아무키를 누르면 게임시작--책 참고--새 링크로 열기
+게임 코드--음악추가 코드
+전반 코드
+다시하기 코드--새 링크로 열기
+
+4. For
+ 
+personal blog
+
+
+5. 기능
+
